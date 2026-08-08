@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield",
+  "description": "AI-powered web platform to detect, document, and report online harassment, fake profiles, and deepfake abuse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
